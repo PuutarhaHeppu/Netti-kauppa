@@ -1,11 +1,10 @@
-body {
+.body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: whitesmoke
 }
-
-.Product-image {
-    
+.img {
+  margin: 200px;
 }
 
 .topnav {
@@ -28,6 +27,6 @@ body {
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #050505;
   color: white;
 }
